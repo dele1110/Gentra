@@ -1,7 +1,14 @@
 .register
 {
+  width: 400px;
+  height: 200px;
+  border: 1px solid black;
   text-align: center;
-  margin-top: 150px;
-  color: rgb(4, 4, 53);
+  color: black;
   font-size: 17px;
+  box-shadow: 5px 5px 5px black;
+  margin-left: 500px;
+  margin-top: 200px;
+  
 }
+

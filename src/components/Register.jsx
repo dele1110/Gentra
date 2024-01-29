@@ -6,12 +6,11 @@ function Register() {
     <div className='register'>
       <p>School Management System</p>
       <form className='form'>
-        <input type="password"  placeholder='Enter your username'/>
+        <input type="text"  placeholder='Enter your username'/>
         <br /><br />
-        <input type="password" required placeholder='Enter your password' />
+        <input type="password" placeholder='Enter your password' />
         <br /><br />
         <button type="reset">Login</button>
-        <br /><br />
       </form>
     </div>
   )
